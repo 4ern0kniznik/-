@@ -1,5 +1,5 @@
-# -
-Интересные идеи
+# JavaNotes
+
 
 //Считывание второй строки из файла
 import java.io.BufferedReader;
